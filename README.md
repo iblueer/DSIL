@@ -8,7 +8,7 @@
 
 - ### [应用](1.list/3.example)
 
-> 1.[约瑟夫问题](3.example/Josephus_problem/main.c)
+> 1.[约瑟夫问题](1.list/3.example/Josephus_problem/main.c)
 
 ## 2.[栈和队列](2.stack_and_queue)
 
